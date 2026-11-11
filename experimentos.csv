@@ -1,0 +1,9 @@
+run_id,fecha_utc,modelo,n_estimators,max_depth,min_samples_leaf,max_features,random_state,n_splits,test_size,periodo_entrenamiento_fin,n_variables,variables,mae_cv,rmse_cv,std_rmse_cv,ranking,es_mejor
+RUN-005,2026-11-11T00:03:33+00:00,Random Forest,200,4,2,1.0,2026,4,4,2024Q4,4,"actividad_comercial, credito_privado, gasto_gobierno, consumo_electrico",0.9942145861285159,1.1167241049785097,0.3994112679920653,1,True
+RUN-007,2026-11-11T00:03:33+00:00,Random Forest,200,7,2,1.0,2026,4,4,2024Q4,4,"actividad_comercial, credito_privado, gasto_gobierno, consumo_electrico",1.011302163983586,1.1310672911885333,0.381268818254844,2,False
+RUN-001,2026-11-11T00:03:33+00:00,Random Forest,100,4,2,1.0,2026,4,4,2024Q4,4,"actividad_comercial, credito_privado, gasto_gobierno, consumo_electrico",1.019226164076888,1.1398582628417846,0.4117586034612093,3,False
+RUN-003,2026-11-11T00:03:33+00:00,Random Forest,100,7,2,1.0,2026,4,4,2024Q4,4,"actividad_comercial, credito_privado, gasto_gobierno, consumo_electrico",1.044089212820166,1.159062381634759,0.3798613876366069,4,False
+RUN-002,2026-11-11T00:03:33+00:00,Random Forest,100,4,4,1.0,2026,4,4,2024Q4,4,"actividad_comercial, credito_privado, gasto_gobierno, consumo_electrico",1.0241354766194886,1.1725731653282438,0.34247473868968503,5,False
+RUN-004,2026-11-11T00:03:33+00:00,Random Forest,100,7,4,1.0,2026,4,4,2024Q4,4,"actividad_comercial, credito_privado, gasto_gobierno, consumo_electrico",1.0281196391551157,1.173632868606687,0.33223305456686497,6,False
+RUN-008,2026-11-11T00:03:33+00:00,Random Forest,200,7,4,1.0,2026,4,4,2024Q4,4,"actividad_comercial, credito_privado, gasto_gobierno, consumo_electrico",1.029695131985508,1.176145938798761,0.292943686587464,7,False
+RUN-006,2026-11-11T00:03:33+00:00,Random Forest,200,4,4,1.0,2026,4,4,2024Q4,4,"actividad_comercial, credito_privado, gasto_gobierno, consumo_electrico",1.0280053504267115,1.1768178295601457,0.298503307834927,8,False

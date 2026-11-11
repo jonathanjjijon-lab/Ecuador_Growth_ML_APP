@@ -1,0 +1,27 @@
+{
+  "run_id": "RUN-005",
+  "parametros": {
+    "n_estimators": 200,
+    "max_depth": 4,
+    "min_samples_leaf": 2
+  },
+  "metricas_cv": {
+    "mae": 0.9942145861285159,
+    "rmse": 1.1167241049785097
+  },
+  "metricas_test": {
+    "run_id": "RUN-005",
+    "mae_test": 0.844770924566122,
+    "rmse_test": 1.003937057538039,
+    "r2_test": 0.3737048255245079,
+    "n_test": 7,
+    "inicio_test": "2025Q1",
+    "fin_test": "2026Q3"
+  },
+  "features": [
+    "actividad_comercial",
+    "credito_privado",
+    "gasto_gobierno",
+    "consumo_electrico"
+  ]
+}
